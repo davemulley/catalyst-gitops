@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: catalyst-test
+description: Chart to configure ArgoCD with the catalyst-test project and its applications
